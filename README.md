@@ -2,7 +2,7 @@
 
 Claude and ChatGPT subscription limits in OpenCode's **Usage limit** sidebar section.
 
-![Usage limit section in the OpenCode sidebar](demo.png)
+![Usage limit section in the OpenCode sidebar](https://raw.githubusercontent.com/duality-institute/ai_use_tracker/main/demo.png)
 
 - Claude: 5-hour, weekly, and model-specific limits, including Fable.
 - ChatGPT: the Work/Codex allowance.
